@@ -3,6 +3,7 @@ public class Test {
 	
 	public static void main(String[] args) {
 		System.out.println("¹þ¹þ");
+		System.out.println("111111");
 	}
 
 }
